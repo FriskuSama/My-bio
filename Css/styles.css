@@ -1,0 +1,152 @@
+body{
+
+    background-color: #F7C469;
+    text-align: center;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    font-family: 'Courgette', cursive;
+}
+h1{
+
+    font-size: 64px;
+    line-height: 2;
+}
+h2{
+    background-color: #D57149;
+    width: 15%;
+    margin-left: 42%;
+    padding: 5px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 32px;
+    border-radius: 20px;
+
+}
+.exp{
+    background-color: #2C3333;
+}
+
+hr{
+
+    color: #1b1818;
+    width: 20%;
+    border-width: 20px;
+    border-top-width: 0;
+    border-style: dotted;
+}
+h3{
+   
+    font-size:25px ;
+    
+}
+p{
+
+    color:black;
+    font-size: 16px;
+    line-height: 2;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.top{
+
+    background-color: #2C3333;
+
+}
+span{
+    color:white;
+}
+.cloud-1{
+
+    position: relative;
+    left: 350px;
+    top: 100px;   
+}
+.cloud-2{
+
+    position: relative;
+    bottom: 700px;
+}
+.fox{
+
+    position: relative;
+    right: 80px;
+}
+
+/*---------------------------------------------------------------------------------------------------*/
+
+.pfp{
+
+    height: 250px;
+    width: 250px;
+}
+
+.skill-row{
+
+    width: 70%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.programming{
+
+    width: 25%;
+    float: left;
+    margin-right: 25px;
+}
+.video-editing{
+
+    float: right;
+    width: 25%;
+    margin-left: 25px;
+}
+.video{
+
+    text-align: right;
+}
+.Games{
+
+    float: left;
+    width: 25%;
+    margin-right: 25px;
+}
+/*-------------------------------------------------------------------------------------------------------*/
+.btn {
+    background: #d41313;
+    background-image: -webkit-linear-gradient(top, #d41313, #121414);
+    background-image: -moz-linear-gradient(top, #d41313, #121414);
+    background-image: -ms-linear-gradient(top, #d41313, #121414);
+    background-image: -o-linear-gradient(top, #d41313, #121414);
+    background-image: linear-gradient(to bottom, #d41313, #121414);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+  .btn:hover {
+    background: #ff0000;
+    background-image: -webkit-linear-gradient(top, #ff0000, #000000);
+    background-image: -moz-linear-gradient(top, #ff0000, #000000);
+    background-image: -ms-linear-gradient(top, #ff0000, #000000);
+    background-image: -o-linear-gradient(top, #ff0000, #000000);
+    background-image: linear-gradient(to bottom, #ff0000, #000000);
+    text-decoration: none;
+}
+.bottom-container{
+    font-size: large;
+    padding: 50px 0 20px;
+    padding-bottom: 10px; 
+    background-color: #672F2F;
+}
+
+a{
+    color: white;
+    margin: 10px;
+}
